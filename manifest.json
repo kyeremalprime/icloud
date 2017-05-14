@@ -1,0 +1,16 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "Notas, WEB APP 标准的 Chrome 扩展, 随时随地记录生活。-Kyeremal",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png"
+   },
+   "name": "Notas",
+   "permissions": [ "notifications", "webview", "clipboardRead", "clipboardWrite", "contextMenus", "fileSystem", "geolocation", "storage", "tts", "unlimitedStorage" ],
+   "short_name": "Notas",
+   "version": "0.0.0"
+}
